@@ -19,8 +19,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  frideos:  
-  rebuilder:    
+  frideos: ^0.6.2
+  rebuilder: ^0.2.0 
   http:  
 
 

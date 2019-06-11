@@ -1,6 +1,5 @@
 import 'dart:async';
 
-import 'package:flutter/material.dart';
 import 'package:frideos/frideos.dart';
 import 'package:rebuilder/rebuilder.dart';
 

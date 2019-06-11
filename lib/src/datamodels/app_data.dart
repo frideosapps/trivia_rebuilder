@@ -1,5 +1,3 @@
-import 'dart:async';
-
 import 'package:rebuilder/rebuilder.dart';
 
 import 'settings_data.dart';

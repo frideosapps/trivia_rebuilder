@@ -108,7 +108,7 @@ packages:
       name: rebuilder
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.0+1"
+    version: "0.2.0"
   rxdart:
     dependency: transitive
     description:

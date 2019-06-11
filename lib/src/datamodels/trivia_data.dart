@@ -36,8 +36,6 @@ class TriviaModel extends DataModel {
   double countdownBar;
   Timer timer;
 
-  //void startTrivia() => t
-
   void setupTrivia(List<Question> data) {
     assert(data.length > 0, 'QUESTIONS NULL');
 
